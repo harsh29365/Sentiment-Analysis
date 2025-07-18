@@ -57,7 +57,7 @@ This indicates that the model is performing equally well for both positive and n
 reviews. 
 
 Misclassified Reviews: 
-Common trends seen in misclassified reviews: 
+Common trends seen in misclassified reviews:
 Mixed review: Contains both praise and criticism. 
 Noise: The score does not match the review. 
 Model error: The model simply made the wrong prediction despite clear meaning. 
